@@ -20,11 +20,3 @@ Projeto web desenvolvido para otimizar a organização acadêmica de estudantes,
 * **CSS3:** Estilização responsiva utilizando CSS Variables, CSS Grid Layout, Flexbox e animações nativas (`@keyframes`)[cite: 1]
 * **JavaScript Vanilla:** Manipulação direta de DOM, gerenciamento de estado local utilizando Arrays e Objetos, métodos de iteração (`map`, `filter`, `reduce`, `sort`) e manipulação de datas[cite: 1]
 * **Arquitetura SPA (Single Page Application):** Navegação fluida entre telas simulada via JavaScript sem necessidade de recarregar a página ou utilizar frameworks externos[cite: 1]
-
-## ▶️ Como executar
-
-Como o projeto é construído de forma nativa e contido em um único arquivo, não há necessidade de instalar dependências complexas ou configurar servidores locais.
-
-**1. Clone o repositório:**
-```bash
-git clone [https://github.com/pedromzanette/CampusFlow.git](https://github.com/pedromzanette/CampusFlow.git)
